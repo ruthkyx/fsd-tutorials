@@ -1,6 +1,8 @@
 let colours = ["pink", "purple", "blue", "yellow"]
-colours.pop();
+let removeLast = colours.pop();
 console.log(colours);
 
-colours.shift();
+let removeFirst = colours.shift();
 console.log(colours);
+
+console.log(`remove last: ${removeLast} \nremove first: ${removeFirst}`)
