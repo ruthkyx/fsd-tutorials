@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/ex03/index-end.html"
+    "livePreview.defaultPreviewPath": "/ex03/index-end.html",
+    "liveServer.settings.port": 5501
 }
